@@ -1,0 +1,18 @@
+2023-12-26 08:18:53 - Starting BranchRepositoryTest using Java 19.0.2 with PID 14676 (started by regus in /Applications/Projects/SpringRepo/bankingmanagement-api)
+2023-12-26 08:18:53 - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-12-26 08:18:53 - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 08:18:53 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-26 08:18:53 - Finished Spring Data repository scanning in 38 ms. Found 5 JPA repository interfaces.
+2023-12-26 08:18:53 - Replacing 'dataSource' DataSource bean with embedded version
+2023-12-26 08:18:53 - Starting embedded database: url='jdbc:h2:mem:61e125d9-15ee-448e-b324-9ca3810c2b26;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2023-12-26 08:18:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-26 08:18:54 - HHH000412: Hibernate ORM core version 6.2.5.Final
+2023-12-26 08:18:54 - HHH000406: Using bytecode reflection optimizer
+2023-12-26 08:18:54 - HHH000021: Bytecode provider name : bytebuddy
+2023-12-26 08:18:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-26 08:18:54 - HHH000021: Bytecode provider name : bytebuddy
+2023-12-26 08:18:54 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-26 08:18:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 08:18:54 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2023-12-26 08:18:55 - Started BranchRepositoryTest in 1.816 seconds (process running for 2.412)
+2023-12-26 08:18:55 - Closing JPA EntityManagerFactory for persistence unit 'default'

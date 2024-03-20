@@ -1,0 +1,4 @@
+2023-10-14 20:44:00 - Starting ReportingApiApplicationTests using Java 19.0.2 with PID 3044 (started by regus in /Users/regus/Documents/F/SpringRepo/reporting-api)
+2023-10-14 20:44:00 - Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-10-14 20:44:00 - No active profile set, falling back to 1 default profile: "default"
+2023-10-14 20:44:01 - Started ReportingApiApplicationTests in 0.624 seconds (process running for 1.065)
